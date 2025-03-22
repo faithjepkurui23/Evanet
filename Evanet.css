@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    font-weight: 300;
+    background-image:url(https://th.bing.com/th/id/OIP.kLMPlCF7VZvLrAaYrItAqgHaE8?w=294&h=195&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+    margin: 20px 0;
+    color:crimson;
+    font-size: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: aliceblue;
+}
+th, td {
+    border: 5px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    text-decoration-color: brown;
+}
+th {
+    background-color: #f2f2f2;
+}
+.contact {
+    margin-top: 20px;
+}
